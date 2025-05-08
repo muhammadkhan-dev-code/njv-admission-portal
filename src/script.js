@@ -18,7 +18,8 @@ document.getElementById('nextBtn').addEventListener('click', () => {
     incoming.classList.add('opacity-100');
   }, 500);
 });
-
+let btn= document.querySelector("#button");
+//  write code for donate button
 
 //        src = 'https://njv.edu.pk/wp-content/uploads/2024/09/3-1024x683.jpg'; alt top mdcat 
 //        src = 'https://njv.edu.pk/wp-content/uploads/2024/09/1-1024x683.jpg'; alt 100% scholarship
